@@ -1,5 +1,5 @@
-# TO run the program one needs to follow depending the Operations system:
-## Mac:
+#TO run the program one needs to follow depending the Operations system:
+##Mac:
 - on the Terminal write: ./run.bash
 ## Other:
 - Run these commands in this order: 
@@ -7,5 +7,5 @@
 - gradle build
 - gradle run
 
-### OR 
+###OR 
 - gradle clean build run
