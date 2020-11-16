@@ -1,0 +1,4 @@
+##To build this project into a Jar File use the following commands:
+- Run these commands in this order: 
+- gradle clean
+- gradle build
